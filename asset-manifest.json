@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HelloWebTock/static/css/main.073c9b0a.css",
-    "main.js": "/HelloWebTock/static/js/main.3bfa7240.js",
-    "static/js/787.fe1675bb.chunk.js": "/HelloWebTock/static/js/787.fe1675bb.chunk.js",
-    "index.html": "/HelloWebTock/index.html",
-    "main.073c9b0a.css.map": "/HelloWebTock/static/css/main.073c9b0a.css.map",
-    "main.3bfa7240.js.map": "/HelloWebTock/static/js/main.3bfa7240.js.map",
-    "787.fe1675bb.chunk.js.map": "/HelloWebTock/static/js/787.fe1675bb.chunk.js.map"
+    "main.css": "/tryagain/static/css/main.073c9b0a.css",
+    "main.js": "/tryagain/static/js/main.80b0e18c.js",
+    "static/js/787.fe1675bb.chunk.js": "/tryagain/static/js/787.fe1675bb.chunk.js",
+    "index.html": "/tryagain/index.html",
+    "main.073c9b0a.css.map": "/tryagain/static/css/main.073c9b0a.css.map",
+    "main.80b0e18c.js.map": "/tryagain/static/js/main.80b0e18c.js.map",
+    "787.fe1675bb.chunk.js.map": "/tryagain/static/js/787.fe1675bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3bfa7240.js"
+    "static/js/main.80b0e18c.js"
   ]
 }
